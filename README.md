@@ -1,5 +1,3 @@
-Thank you for providing the information. Here's a draft of your impressive README:
-
 ## Hi there 👋
 
 I'm Abdi Asres, a passionate software developer with a strong background in building diverse systems and integrations. 
@@ -30,11 +28,10 @@ I'm looking for collaborations that emphasize learning and building products to 
 ### 📫 Contact Me
 - **Email**: [asresabdi@gmail.com](mailto:asresabdi@gmail.com)
 - **LinkedIn**: [Abdi Asres](https://www.linkedin.com/in/abdi-asres-68084916a/)
-- 
+
 
 ### ⚡ Fun Fact
 I am always eager to learn new technologies and love to solve challenging problems that can make a positive impact on society.
 
 Feel free to reach out if you want to collaborate or just have a chat about technology, development, and making a difference!
 
----
