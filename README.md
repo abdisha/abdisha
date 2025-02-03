@@ -31,7 +31,7 @@ I'm looking for collaborations that emphasize learning and building products to 
 
 
 ### ⚡ Fun Fact
-I am always eager to learn new technologies and love to solve challenging problems that can make a positive impact on society.
+I am always eager to learn new technologies and love to solve challenging problems that can positively impact society.
 
-Feel free to reach out if you want to collaborate or just have a chat about technology, development, and making a difference!
+Feel free to reach out if you want to collaborate or just chat about technology, development, and making a difference!
 
